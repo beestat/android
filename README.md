@@ -12,4 +12,4 @@ It's basically just a refined way of creating a "wrapper" application using a We
 
 This application was created with the PWA to APK service from appmaker.xyz (https://appmaker.xyz/pwa-to-apk/), which is mostly just an automated tool that configures the example app from Google (https://github.com/GoogleChromeLabs/svgomg-twa). I've done some fiddling with the source code as I attempted to understand what was going on and then rebuilt the app using Android Studio.
 
-If you have any questions or comments please feel free to create an issue or reach out to me at contact@beestat.io
+If you have any questions or comments please feel free to create an issue or reach out to me at contact@beestat.io.
