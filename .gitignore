@@ -1,6 +1,5 @@
 *.iml
 .idea/
 .gradle/
-beestat.keystore
-keystore.properties
+.internal/
 local.properties

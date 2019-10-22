@@ -1,7 +1,7 @@
 # Android PWA App
-This is the official beestat Android app. 
+This is the official beestat Android app.
 
-Beestat is a PWA (Progressive Web App). This means that there is very little native Android code. If you're here looking for something meaningful, you're not going to find it. This app is nothing more than a pointer at beestat.io for presence in the Play Store.
+Beestat is a PWA (Progressive Web App). This means that there is very little native Android code. If you're here looking for something meaningful, you're not going to find it. This app is nothing more than a pointer at app.beestat.io for presence in the Play Store.
 
 A PWA works by:
 - Opening Chrome on the device
