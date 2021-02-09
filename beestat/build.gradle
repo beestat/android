@@ -23,7 +23,7 @@ android {
         applicationId "io.beestat"
         minSdkVersion 16
         targetSdkVersion 28
-        versionCode 1002
+        versionCode 1003
         versionName "1.2"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         manifestPlaceholders = [
