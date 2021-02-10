@@ -1,5 +1,9 @@
+local.properties
 *.iml
 .idea/
 .gradle/
 .internal/
-local.properties
+build/
+beestat/debug/
+beestat/build/
+beestat/release/
